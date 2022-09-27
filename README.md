@@ -1,1 +1,1 @@
-# classifications-on-iris-data-set
+# Practice of Machine Learning algorithms
